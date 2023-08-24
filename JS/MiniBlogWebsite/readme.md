@@ -7,4 +7,4 @@ Javascript
 
 ## Screenshots
 
-![Screenshot 2023-07-12 181350](https://github.com/Muguai/Assignment1BankWorkLaptop/assets/37656342/33aaf457-8916-4fb0-8c20-341e77753d46)
+![Screenshot 2023-07-12 181350](https://github.com/Muguai/CodingPractice/assets/37656342/dc360899-bf03-4ccd-8771-36fea36c0e93)
